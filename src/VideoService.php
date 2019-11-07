@@ -1,7 +1,7 @@
 <?php
-namespace alchemyguy\YoutubeLaravelApi;
+namespace sushant4\YoutubeLaravelApi;
 
-use alchemyguy\YoutubeLaravelApi\Auth\AuthService;
+use sushant4\YoutubeLaravelApi\Auth\AuthService;
 use Exception;
 
 class VideoService extends AuthService {

@@ -1,6 +1,6 @@
 <?php
 
-namespace alchemyguy\YoutubeLaravelApi;
+namespace sushant4\YoutubeLaravelApi;
 
 use Illuminate\Support\ServiceProvider;
 
